@@ -53,8 +53,7 @@
                             <div class="contact-address">
                                 <div class="address-box">
                                     <div class="phone block "><span> <a cursor-class="arrow" href="tel:7979444333"> <i>
-                                                    <img src="images/phone.svg" alt="Phone"></i> +91 7979 444
-                                                333</a></span>
+                                                    <img src="images/phone.svg" alt="Phone"></i> +91 9895 411 807</a></span>
                                     </div>
                                     <div class="address block ">
                                         <span><i> <img src="images/address-icon.svg" alt=""></i> Mobile 10 X Building,

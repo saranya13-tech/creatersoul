@@ -25,6 +25,6 @@
         </div>
     </div>
     <div class="copy-right">
-        <p>© 2020 Create Souls. All Rights Reserved.</p>
+        <p>© 2021 Create Souls. All Rights Reserved.</p>
     </div>
 </footer>
