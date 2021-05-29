@@ -93,7 +93,7 @@
                         <div class="col-lg-3 col-sm-6">
                             <div class="block">
                                 <img src="images/ideate.svg" alt="ideate">
-                                <h4>ideate</h4>
+                                <h4>Ideate</h4>
                                 <p>This is where we start talking, make the first strokes, define the course and come in terms with your needs </p>
                             </div>
                         </div>

@@ -12,8 +12,8 @@
                     <ul class="nav-primary">
                         <li><a cursor-class="arrow" href="about.php" data-text="About">About</a></li>
                         <li><a cursor-class="arrow" href="services.php" data-text="Services">Services</a></li>
-                        <li><a  cursor-class="arrow" href="showcase.php" data-text="Showcase">Showcase</a></li>
-                        <li><a  cursor-class="arrow" href="contact.php" data-text="Contact">Contact</a></li>
+                        <li><a cursor-class="arrow" href="showcase.php" data-text="Showcase">Showcase</a></li>
+                        <li><a cursor-class="arrow" href="contact.php" data-text="Contact">Contact</a></li>
                     </ul>
                 </nav>
                 <span class="navigation-btn">
@@ -43,25 +43,34 @@
     <div class="navigation">
         <nav class="navigation-nav nav-secondary">
             <a class="nav-close navigation-btn" cursor-class="arrow">
-            <svg width="14" height="20" viewBox="0 0 14 20" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M10.4995 20C9.73153 20 8.96354 19.708 8.37753 19.122L1.37754 12.122C0.205535 10.952 0.205535 9.04998 1.37754 7.87998L8.37753 0.879977C9.54953 -0.292023 11.4475 -0.292023 12.6195 0.879977C13.7915 2.04998 13.7915 3.95198 12.6195 5.12198L7.74154 9.99998L12.6195 14.878C13.7915 16.048 13.7915 17.95 12.6195 19.12C12.0355 19.708 11.2675 20 10.4995 20Z" fill="white"/>
-            </svg>
+                <svg width="14" height="20" viewBox="0 0 14 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M10.4995 20C9.73153 20 8.96354 19.708 8.37753 19.122L1.37754 12.122C0.205535 10.952 0.205535 9.04998 1.37754 7.87998L8.37753 0.879977C9.54953 -0.292023 11.4475 -0.292023 12.6195 0.879977C13.7915 2.04998 13.7915 3.95198 12.6195 5.12198L7.74154 9.99998L12.6195 14.878C13.7915 16.048 13.7915 17.95 12.6195 19.12C12.0355 19.708 11.2675 20 10.4995 20Z"
+                        fill="white" />
+                </svg>
             </a>
             <div class="container">
                 <div class="row wide">
-                <div class="col-md-6 sm-order-2">
+                    <div class="col-md-6 sm-order-2">
                         <ul class="social-media">
-                        <li>
-                            <a cursor-class="arrow" href="https://www.facebook.com/createsouls.design/" target="_blank"><img src="images/facebook-icon.svg" alt=""></a>
-                        </li>
-                        <li>
-                            <a class="insta" cursor-class="arrow" href="https://www.instagram.com/createsouls.design/" target="_blank"> <img src="images/instagram-icon.svg" alt=""></a>
-                        </li>
-                        <li>
-                            <a class="in" cursor-class="arrow" href="https://www.linkedin.com/in/create-souls-design-studio-232663212/" target="_blank"><img src="images/linkedin-icon.svg" alt=""></a>
-                        </li>
-                        <li><a class="wa" href="https://wa.me/9895411807" cursor-class="arrow" target="_blank"><img src="images/whatsapp-icon.svg" alt=""></a></li>
-                        <li><a href="https://www.behance.net/createsouls" cursor-class="arrow" target="_blank"><img src="images/twitter-squared-icon.svg" alt=""></a></li>
+                            <li>
+                                <a cursor-class="arrow" href="https://www.facebook.com/createsouls.design/"
+                                    target="_blank"><img src="images/facebook-icon.svg" alt=""></a>
+                            </li>
+                            <li>
+                                <a class="insta" cursor-class="arrow"
+                                    href="https://www.instagram.com/createsouls.design/" target="_blank"> <img
+                                        src="images/instagram-icon.svg" alt=""></a>
+                            </li>
+                            <li>
+                                <a class="in" cursor-class="arrow"
+                                    href="https://www.linkedin.com/in/create-souls-design-studio-232663212/"
+                                    target="_blank"><img src="images/linkedin-icon.svg" alt=""></a>
+                            </li>
+                            <li><a class="wa" href="https://wa.me/9895411807" cursor-class="arrow" target="_blank"><img
+                                        src="images/whatsapp-icon.svg" alt=""></a></li>
+                            <li><a href="https://www.behance.net/createsouls" cursor-class="arrow" target="_blank"><img
+                                        src="images/behance-squared-icon.svg" alt=""></a></li>
                         </ul>
                     </div>
                     <div class="col-md-6 sm-order-1">
@@ -76,7 +85,7 @@
 
                         </ul>
                     </div>
-                    
+
                 </div>
             </div>
 

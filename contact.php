@@ -8,8 +8,8 @@
     <meta name="description" content="">
     <meta name="Keywords" content="">
     <title> Create Souls | Contact</title>
-         <!-- og -->
-         <meta name="image" content="http://createsouls.com/images/share.png">
+    <!-- og -->
+    <meta name="image" content="http://createsouls.com/images/share.png">
     <meta name="robots" content="index">
     <link rel="canonical" href="http://createsouls.com/">
     <meta name="author" content="A soulful approach to UI/UX, Web,Web App,Mobile App,Brand Design">
@@ -24,7 +24,7 @@
     <meta name="twitter:url" content="http://createsouls.com/">
     <meta name="twitter:description" content="A soulful approach to UI/UX, Web,Web App,Mobile App,Brand Design">
     <meta name="twitter:image" content="http://createsouls.com/images/share.png">
-     <!-- fav -->
+    <!-- fav -->
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
@@ -81,7 +81,7 @@
                                     <li><a class="wa" href="https://wa.me/9895411807" cursor-class="arrow"
                                             target="_blank"><img src="images/whatsapp-icon.svg" alt=""></a></li>
                                     <li><a href="https://www.behance.net/createsouls" cursor-class="arrow"
-                                            target="_blank"><img src="images/twitter-squared-icon.svg" alt=""></a></li>
+                                            target="_blank"><img src="images/behance-squared-icon.svg" alt="behance"></a></li>
                                 </ul>
                             </div>
                         </div>

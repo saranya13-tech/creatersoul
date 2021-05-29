@@ -176,6 +176,8 @@
                     <h2>Blog</h2>
                     <p class="description"> Let's talk design.<br class="hide-mobile">Good reads for the designer in
                         you.</p>
+
+
                 </div>
                 <div class="row justify-content-center ">
                     <div class="col-lg-10">
@@ -183,7 +185,7 @@
                             <div class="col-lg-5 col-md-5 inview">
                                 <a href="design-is-in-the-air.php" cursor-class="arrow">
                                     <div class="block fly-up" data-scroll style="background-color: #CCE4FF;">
-                                        <img src="images/image-1.png" alt="">
+                                        <img src="images/image-1.svg" alt="">
                                     </div>
                                     <h4 class="fly-up" data-scroll>Design is in the air</h4>
                                     <span>Suhail Kalliyath </span>
@@ -192,7 +194,7 @@
                             <div class="col-lg-5 col-md-5 inview">
                                 <a href="colours-aint-just-visual-it-is-emotional.php" cursor-class="arrow">
                                     <div class="block fly-up" data-scroll style="background-color: #ECFBF8;">
-                                        <img src="images/image-2.png" alt="">
+                                        <img src="images/image-2.svg" alt="">
                                     </div>
                                     <h4 class="fly-up" data-scroll>Colours ain’t just visual, <br
                                             class="hide-mobile">it’s emotional</h4>
@@ -202,7 +204,7 @@
                             <div class="col-lg-5 col-md-5 inview">
                                 <a href="a-logo-is-worth-a-thing.php" cursor-class="arrow">
                                     <div class="block fly-up" data-scroll style="background-color: #F4ECFB;">
-                                        <img src="images/logo-worth-front.png" alt="">
+                                        <img src="images/logo-worth.svg" alt="">
                                     </div>
                                     <h4 class="fly-up" data-scroll>A Logo is worth a thing</h4>
                                     <span>Sudeep E</span>
@@ -211,7 +213,7 @@
                             <div class="col-lg-5 col-md-5 inview">
                                 <a href="ecommerce-ease-of-business.php" cursor-class="arrow">
                                     <div class="block fly-up" data-scroll style="background-color:#EAF5FF;">
-                                        <img src="images/online-shopping.png" alt="">
+                                        <img src="images/online-shopping.svg" alt="">
                                     </div>
                                     <h4 class="fly-up" data-scroll>E-COMMERCE - Ease of businessair</h4>
                                     <span>Sudeep E</span>
